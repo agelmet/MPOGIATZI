@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/konstantina-mpogiatzi-logo.svg"
+ },
+ "source_md5": "b589ae55b051272b0519d154fb081602",
+ "version": "007bc454",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "0ca0e97fc894869d1db2d3c548744e01"
+ ],
+ "made": "2026-10-22"
+}
